@@ -1,1 +1,1 @@
-# ML_softuni_repo
+# Predicting the rating of apps from the Google App store.
